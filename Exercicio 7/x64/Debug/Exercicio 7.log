@@ -1,0 +1,4 @@
+﻿  Exercicio 7.cpp
+C:\Users\leand\EFA57 Cinel - Programador\Programação em C - fundamentos\Exercicio 7\Exercicio 7.cpp(15,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\leand\EFA57 Cinel - Programador\Programação em C - fundamentos\Exercicio 7\Exercicio 7.cpp(19,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Exercicio 7.vcxproj -> C:\Users\leand\EFA57 Cinel - Programador\Programação em C - fundamentos\Variáveis e Tipos\x64\Debug\Exercicio 7.exe
